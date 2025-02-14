@@ -54,6 +54,7 @@ const AuthForm = ({type}:{type:FormType}) => {
             </FormItem>
           )}
         />
+        
         <Button type="submit">Submit</Button>
       </form>
     </Form>
